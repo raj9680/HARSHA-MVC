@@ -5,9 +5,11 @@ var app = builder.Build();
 app.Use(async (HttpContext context, RequestDelegate next) =>
 {
     await context.Response.WriteAsync("Hello");
+    await next(context);
 });
 
-//Middleware 2
+//Middleware 2 
+// app.Run() is called non-terminating/short-circuting middleware that may / may not forward the request to the next middleware
 app.Run(async (HttpContext context) =>
 {
     await context.Response.WriteAsync("Hello");
