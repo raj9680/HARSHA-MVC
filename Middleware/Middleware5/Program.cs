@@ -1,7 +1,13 @@
+using Middleware5.LoginMiddlewareApplication;
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
-// if
+// login middleware
+app.UseLoginConventionalMiddleware();
+
+// if [USE WHEN MIDDLEWARE]
+
 app.UseWhen(
     context => context.Request.Query.ContainsKey("username"),
     async app =>
@@ -19,7 +25,7 @@ app.Run(async context =>
     await context.Response.WriteAsync("Hello from middleware at main chain");
 });
 
-// login middleware
+
 
 app.Run();
 
