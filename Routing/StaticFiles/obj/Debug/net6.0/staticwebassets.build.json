@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "yw6pTEgd5EUGBIWFgULfo+cr8Sbdm/nursHXSkYwEV4=",
+  "Source": "StaticFiles",
+  "BasePath": "_content/StaticFiles",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFiles\\wwwroot",
+      "Source": "StaticFiles",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\",
+      "BasePath": "_content/StaticFiles",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\image.jpg",
+      "SourceId": "StaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\",
+      "BasePath": "_content/StaticFiles",
+      "RelativePath": "image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\screenshot.pdf",
+      "SourceId": "StaticFiles",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\",
+      "BasePath": "_content/StaticFiles",
+      "RelativePath": "screenshot.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\screenshot.pdf"
+    }
+  ]
+}
