@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yw6pTEgd5EUGBIWFgULfo+cr8Sbdm/nursHXSkYwEV4=",
+  "Hash": "FDqtIBg/b1RfoC7L58y6Igqb+eMmKoducoZv7pMc7gE=",
   "Source": "StaticFiles",
   "BasePath": "_content/StaticFiles",
   "Mode": "Default",
@@ -32,23 +32,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\screenshot.pdf",
-      "SourceId": "StaticFiles",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Routing\\StaticFiles\\wwwroot\\",
-      "BasePath": "_content/StaticFiles",
-      "RelativePath": "screenshot.pdf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\screenshot.pdf"
     }
   ]
 }
