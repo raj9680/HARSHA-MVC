@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "O5WqduYP+DoJUQp4V2ei0zdsyz8EvQASR9mRIlkoW5w=",
+  "Source": "ModelClass",
+  "BasePath": "_content/ModelClass",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ModelClass\\wwwroot",
+      "Source": "ModelClass",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\ModelClass\\wwwroot\\",
+      "BasePath": "_content/ModelClass",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
