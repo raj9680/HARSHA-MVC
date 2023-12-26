@@ -3,11 +3,8 @@ builder.Services.AddControllers();
 var app = builder.Build();
 
 app.UseRouting();
-app.UseEndpoints(endpoints =>
-{
-    endpoints.MapControllers();
-});
+app.UseEndpoints(endpoints => endpoints.MapControllers());
 
-app.UseStaticFiles();
+app.UseStaticFiles(); 
 
 app.Run();
