@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\IValidatable Object\\IValidatable Object.csproj": {}
+    "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\CustomModelBinder\\CustomModelBinder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\IValidatable Object\\IValidatable Object.csproj": {
+    "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\CustomModelBinder\\CustomModelBinder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\IValidatable Object\\IValidatable Object.csproj",
-        "projectName": "IValidatable Object",
-        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\IValidatable Object\\IValidatable Object.csproj",
+        "projectUniqueName": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\CustomModelBinder\\CustomModelBinder.csproj",
+        "projectName": "CustomModelBinder",
+        "projectPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\CustomModelBinder\\CustomModelBinder.csproj",
         "packagesPath": "C:\\Users\\raj.kumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\IValidatable Object\\obj\\",
+        "outputPath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\CustomModelBinder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raj.kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
