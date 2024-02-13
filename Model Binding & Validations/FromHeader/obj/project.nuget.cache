@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BuAo0iETh7GrUwnYA8NsB5bOPV9wW+2Q6cGx6PZH763f+hImjtYgJZ9eSfl+b1EToyhRM3vo2f6mVf70Q9Eu1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Model Binding & Validations\\FromHeader\\FromHeader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
