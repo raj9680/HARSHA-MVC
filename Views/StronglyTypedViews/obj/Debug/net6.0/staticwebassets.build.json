@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "8hE+TjqRAykhdOU7IAvmXvjKiQHGHfbieXh1jLs9JV0=",
+  "Source": "StronglyTypedViews",
+  "BasePath": "_content/StronglyTypedViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StronglyTypedViews\\wwwroot",
+      "Source": "StronglyTypedViews",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Views\\StronglyTypedViews\\wwwroot\\",
+      "BasePath": "_content/StronglyTypedViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
