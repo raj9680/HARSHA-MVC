@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jY8CEDZiXrdv9MkCdeV4LZeNK7eamprAkLDjHZUMrf0x/VjLxpelwrB8m4PLuFOtpYMG6c9tGDgC81TznjOiGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\LayoutViews\\LayoutViews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\raj.kumar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

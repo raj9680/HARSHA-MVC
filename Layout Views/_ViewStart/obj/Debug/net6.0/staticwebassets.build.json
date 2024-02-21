@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "IwR1QVRgt1dF74t0FqufORhUb5s+S0wE36Jn4dGKMTs=",
+  "Source": "_ViewStart",
+  "BasePath": "_content/_ViewStart",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "_ViewStart\\wwwroot",
+      "Source": "_ViewStart",
+      "ContentRoot": "C:\\Users\\raj.kumar\\Desktop\\HARSHA-MVC\\Layout Views\\_ViewStart\\wwwroot\\",
+      "BasePath": "_content/_ViewStart",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
